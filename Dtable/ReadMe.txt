@@ -1,0 +1,1 @@
+An example of an editable Datatable in Codeigniter 
